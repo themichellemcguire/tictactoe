@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+
+body {
+    height: 100%;
+    font-family: 'Open Sans', sans-serif;
+    background-color: lightblue;
+}
+ 
+.square {
+    border: 2px solid white;
+    height: 200px;
+    width: 200px;
+    background: #00994d;
+    display: inline-block;
+} 
+
+#board {
+    text-align: center;
+}
